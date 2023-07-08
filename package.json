@@ -2,6 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "homepage": "https://oliveirajh.github.io",
+  "export": "next export",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
