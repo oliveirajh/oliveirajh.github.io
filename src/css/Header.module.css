@@ -1,0 +1,23 @@
+.header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.head{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 80%;
+  height: 7rem;
+  border-color: #FFFFFF;
+  border-style: solid;
+  border-bottom-width: 1px;
+}
+
+.logo{
+  font-size: xx-large;
+  font-weight: 600;
+  color: #00FFA3;
+}
